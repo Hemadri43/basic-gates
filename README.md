@@ -1,1 +1,1 @@
-code can be compiled here ----->  https://edaplayground.com/x/8BvA
+basic_gates.v code can be compiled here ----->  https://edaplayground.com/x/8BvA
